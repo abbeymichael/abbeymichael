@@ -1,4 +1,4 @@
-👋 Hi, I’m @abbeymichael
+👋 Hi, I’m @MICHAEL ABBEY
 
 👀 I’m interested in web development 
 
@@ -6,4 +6,4 @@
 
 💞️ I’m looking to collaborate on medical information system and softwares
 
-📫 Reach me on contract@michaelabbey.xyz
+📫 Reach me on mike@exchosoft.com
