@@ -91,12 +91,29 @@ A growing family of vertical SaaS products built on a shared architecture, targe
 
 ## 🏥 Domain Experience
 
-I've shipped production software across some of the most demanding, high-stakes domains:
+I've shipped production software across some of the most demanding, high-stakes domains — for real organizations, at real scale.
 
-- **Insurance Technology** — policy and claims workflows
-- **Healthcare Information Systems** — clinical data management and reporting
-- **Laboratory Information Systems (LIS)** — analyzer integration, machine-generated result processing
-- **HL7 Interoperability** — structured clinical messaging and diagnostic workflows
+### 🔬 Laboratory & Healthcare
+| Project | Organization | Detail |
+|---|---|---|
+| **COVID-19 LIS** | ADS Central Services | Laboratory information system built during the pandemic response |
+| **Full LIS** | Revna Biosciences | End-to-end laboratory information system — analyzer integration, result processing, clinical reporting |
+
+### 🛡️ Insurance & National Infrastructure
+| Project | Organization | Detail |
+|---|---|---|
+| **Insurance Management System** | Ghana Union Assurance (GUA) | Full insurance operations platform |
+| **MID — National Integration Middleware** | Ghana Union Assurance (GUA) | Real-time processing of motor insurance stickers and brown cards at a national level |
+
+### 🌍 Heritage & Cultural Sector
+| Project | Detail |
+|---|---|
+| **Black History Walks** | Digital platform for one of the UK's leading Black history heritage experiences |
+| **African Odysseys** | Software supporting a landmark African and Caribbean cultural programme |
+| **ACSII** | Platform work for the African Caribbean Sustainable Investment Initiative |
+
+### Additional Domain Depth
+- **HL7 Interoperability** — structured clinical messaging, diagnostic analyzer workflows
 - **Church Administration** — fund accounting, member management, financial reporting
 - **Licensing & Software Distribution** — end-to-end activation infrastructure
 - **Enterprise Resource Planning** — cross-industry operational platforms
