@@ -1,157 +1,142 @@
-# 👋 Hi, I'm Michael Abbey
+<div align="center">
 
-Founder & Lead Software Engineer at Exchosoft.
+```
+███████╗██╗  ██╗ ██████╗██╗  ██╗ ██████╗ ███████╗ ██████╗ ███████╗████████╗
+██╔════╝╚██╗██╔╝██╔════╝██║  ██║██╔═══██╗██╔════╝██╔═══██╗██╔════╝╚══██╔══╝
+█████╗   ╚███╔╝ ██║     ███████║██║   ██║███████╗██║   ██║█████╗     ██║
+██╔══╝   ██╔██╗ ██║     ██╔══██║██║   ██║╚════██║██║   ██║██╔══╝     ██║
+███████╗██╔╝ ██╗╚██████╗██║  ██║╚██████╔╝███████║╚██████╔╝██║        ██║
+╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝        ╚═╝
+```
 
-I build enterprise software, developer tools, and business operating platforms designed around a simple idea:
+# Michael Abbey
+### Founder & Lead Software Engineer · [Exchosoft](https://exchosoft.com) · Accra, Ghana 🇬🇭
 
-> Software should continue working even when the internet does not.
+*Building software that works where business happens —*
+*even when the internet does not.*
 
-Based in Accra, Ghana, I'm focused on creating practical software solutions that help organizations operate reliably, reduce unnecessary cloud costs, and maintain ownership of their data.
+[![Email](https://img.shields.io/badge/mike@exchosoft.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mike@exchosoft.com)
+[![Website](https://img.shields.io/badge/exchosoft.com-0A0A0A?style=flat-square&logo=safari&logoColor=white)](https://exchosoft.com)
+[![Location](https://img.shields.io/badge/Accra%2C%20Ghana-006B3F?style=flat-square&logo=google-maps&logoColor=white)](#)
+
+</div>
 
 ---
 
-## 🏢 About Exchosoft
+## The Idea
 
-Exchosoft is a software company building offline-first and hybrid business applications for African enterprises and beyond.
+Most enterprise software assumes a stable internet connection. Most African businesses don't have one — or can't afford to bet their operations on it.
 
-Our work is centered around:
+I build software around a different premise: **infrastructure you own, data you control, systems that keep running when connectivity fails.** The cloud is a tool, not a dependency.
 
-* Data Sovereignty
-* Offline-First Architecture
-* Local Infrastructure Ownership
-* Enterprise Automation
-* Healthcare & Laboratory Systems
-* Business Operations Platforms
+---
 
-We believe many organizations can achieve better reliability, lower operating costs, and greater control by running software on infrastructure they own rather than depending entirely on external cloud services.
+## 🏢 Exchosoft
+
+Exchosoft is a software company building **offline-first and hybrid business applications** for African enterprises and beyond.
+
+Our four pillars:
+
+| | |
+|---|---|
+| **🏛️ Data Sovereignty** | Organizations own their data and decide where it lives |
+| **📡 Offline-First Architecture** | Core operations never depend on external uptime |
+| **🖥️ Local Infrastructure** | Modern capabilities on hardware businesses already own |
+| **⚙️ Enterprise Automation** | Operational workflows that scale without headcount |
 
 ---
 
 ## 🚀 What We're Building
 
-### 🖥️ CoreOps
+### 🖥️ CoreOps — Offline Cloud Orchestration
+> *The infrastructure layer underneath everything we ship*
 
-An offline cloud orchestration platform for Windows and macOS.
+CoreOps is a local cloud orchestration platform for Windows and macOS. It gives businesses the reliability and convenience of cloud infrastructure — running entirely on their own hardware.
 
-CoreOps provides the infrastructure layer for our products and customer deployments, including:
-
-* PostgreSQL
-* Object Storage
-* SSL Management
-* Local DNS Resolution
-* Reverse Proxy Services
-* Automated Backups
-* Multi-Workstation LAN Access
-
-The goal is to help businesses run modern software on local infrastructure while maintaining cloud-like convenience.
+```
+PostgreSQL · Object Storage · SSL Management · Local DNS
+Reverse Proxy · Automated Backups · Multi-Workstation LAN
+```
 
 ---
 
-### 🔑 ExchoLicense
+### 🔑 ExchoLicense — Centralized License & Device Management
+> *Production-grade software distribution and activation infrastructure*
 
-Centralized licensing, activation, subscription, and device management platform.
-
-Features include:
-
-* Offline Activation
-* RSA / Ed25519 Signed Licenses
-* Device Fingerprinting
-* Subscription Management
-* Product Distribution Infrastructure
+| Feature | Detail |
+|---|---|
+| **Cryptography** | RSA / Ed25519 signed license payloads |
+| **Offline Activation** | Grace periods, heartbeat validation, HMAC re-verification |
+| **Device Control** | Fingerprinting, customer self-serve revocation, admin suspension |
+| **Subscriptions** | Activation limits, device swaps, reseller program with no minimums |
 
 ---
 
-### ⚙️ The Ops Suite
+### ⚙️ The Ops Suite — Industry Operating Systems
 
-A growing family of industry-specific operational platforms built on a shared architecture.
+A growing family of vertical SaaS products built on a shared architecture, targeting the industries that keep African economies running.
 
-Current and planned products include:
+| Product | Domain |
+|---|---|
+| **WashOps** ✅ | Laundromat & laundry management *(commercially active)* |
+| **ShopOps** | Retail & business operations |
+| **PharmOps** | Pharmacy operations |
+| **Church ERP** | Church administration, fund accounting & finance |
+| **FarmOps** | Agricultural operations |
+| **PGOps** | PostgreSQL operations & management |
 
-| Product    | Purpose                              |
-| ---------- | ------------------------------------ |
-| ShopOps    | Retail and business operations       |
-| WashOps    | Laundromat and laundry management    |
-| PharmOps   | Pharmacy operations                  |
-| FarmOps    | Agricultural operations              |
-| Church ERP | Church administration and finance    |
-| PGOps      | PostgreSQL operations and management |
-
-Our long-term vision is to build the operating systems behind African businesses.
+> Long-term vision: **the operating systems behind African businesses.**
 
 ---
 
 ## 🏥 Domain Experience
 
-Over the years, I've worked on projects across several industries, including:
+I've shipped production software across some of the most demanding, high-stakes domains:
 
-* Insurance Technology
-* Healthcare Information Systems
-* Laboratory Information Systems (LIS)
-* Diagnostic Analyzer Integration
-* HL7 Interoperability
-* Church Administration Platforms
-* Licensing & Software Distribution
-* Enterprise Resource Planning
-
-This includes integrating laboratory analyzers, processing machine-generated results, implementing HL7 workflows, and generating structured clinical reports.
+- **Insurance Technology** — policy and claims workflows
+- **Healthcare Information Systems** — clinical data management and reporting
+- **Laboratory Information Systems (LIS)** — analyzer integration, machine-generated result processing
+- **HL7 Interoperability** — structured clinical messaging and diagnostic workflows
+- **Church Administration** — fund accounting, member management, financial reporting
+- **Licensing & Software Distribution** — end-to-end activation infrastructure
+- **Enterprise Resource Planning** — cross-industry operational platforms
 
 ---
 
 ## 🛠️ Technologies
 
-```text
-Laravel 13
-Livewire 4
-PHP
-PostgreSQL
-Mysql
-Python
-JavaScript
-Tailwind CSS
-RSA / Ed25519 Cryptography
-HL7
-Mobile Money Integrations
-Linux & Local Infrastructure Automation
+```
+Backend          Laravel 13 · PHP · Python · PostgreSQL · MySQL
+Frontend         Livewire 4 · Alpine.js · Tailwind CSS · JavaScript
+Security         RSA · Ed25519 · HMAC · Device Fingerprinting
+Infrastructure   Linux · Caddy · FrankenPHP · mDNS · Local Automation
+Integrations     HL7 · Mobile Money (MoMo) · Stripe
+Desktop          Electron · Python IPC
 ```
 
 ---
 
-## 🌍 What Interests Me
+## 🤝 Open to Collaborating On
 
-I'm particularly interested in:
+If you're working on any of the following, let's talk:
 
-* Health Tech
-* Medical Information Systems
-* Laboratory Automation
-* Offline-First Computing
-* Enterprise Software
-* Data Sovereignty
-* Self-Hosted Infrastructure
-* African Technology Ecosystems
+- 🏥 Healthcare systems and clinical software
+- 🔬 Laboratory automation and LIS platforms
+- 🏢 Enterprise platforms for emerging markets
+- 📡 Offline-first application architecture
+- 🛠️ Infrastructure and self-hosted DevOps tooling
+- 🌍 Business software built for African contexts
 
 ---
 
-## 🤝 Open to Collaborate On
+## 📫 Get in Touch
 
-Projects involving:
+<div align="center">
 
-* Healthcare Systems
-* Laboratory Software
-* Enterprise Platforms
-* Offline-First Applications
-* Infrastructure & DevOps Tooling
-* Business Software for Emerging Markets
+**📧** [mike@exchosoft.com](mailto:mike@exchosoft.com) &nbsp;·&nbsp; **🌐** [exchosoft.com](https://exchosoft.com)
 
 ---
 
-## 📫 Contact
+*One enterprise. One industry. One operational challenge at a time.*
 
-📧 [mike@exchosoft.com](mailto:mike@exchosoft.com)
-
-🌐 https://exchosoft.com
-
----
-
-> Building software that works where business happens.
->
-> One enterprise. One industry. One operational challenge at a time.
+</div>
